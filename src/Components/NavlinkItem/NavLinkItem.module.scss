@@ -1,0 +1,33 @@
+.item {
+    & li {
+        & div {
+            min-width: auto;
+        }
+    }
+
+    & svg {
+        font-size: 30px;
+        fill: #000000;
+
+        & path {
+            fill: #000000;
+        }
+    }
+
+    &_active {
+        & svg {
+            fill: #4B46E0;
+
+            & path {
+                fill: #4B46E0;
+            }
+        }
+    }
+}
+
+
+.list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
