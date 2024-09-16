@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sewing-platform/static/css/main.a60ce891.css",
+    "main.js": "/sewing-platform/static/js/main.e37f56d0.js",
+    "static/media/addCamera.svg": "/sewing-platform/static/media/addCamera.2801c3282261197c8c31084a9cf1d161.svg",
+    "static/media/Logo.svg": "/sewing-platform/static/media/Logo.13e64489b7d11b4e50a01ba6491d9316.svg",
+    "index.html": "/sewing-platform/index.html",
+    "main.a60ce891.css.map": "/sewing-platform/static/css/main.a60ce891.css.map",
+    "main.e37f56d0.js.map": "/sewing-platform/static/js/main.e37f56d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a60ce891.css",
+    "static/js/main.e37f56d0.js"
+  ]
+}
